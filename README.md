@@ -2,7 +2,7 @@ Olá 😎
 
 Me chamo Diorge, Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de desenvolvimento web e apaixonado por tecnologia!
 
-💼 - Linkedin: https://www.linkedin.com/in/diorge-cordeiro-80142b123/
+💼 - Linkedin: https://www.linkedin.com/in/diorge-cordeiro
 
 
 <!--
