@@ -1,6 +1,6 @@
-Olá 😎
+Olá.
 
-Me chamo Diorge, Graduando em Análise e Desenvolvimento de Sistemas, entusiasta de desenvolvimento web e apaixonado por tecnologia!
+Me chamo Diorge, atuo como QA - Analista de Testes de Software, pretendo migrar pra área de desenvolvimento e no momento estou estudando com foco em desenvolvimento web, utilizando ReactJS, Javascript.
 
 💼 - Linkedin: https://www.linkedin.com/in/diorge-cordeiro
 
