@@ -1,6 +1,6 @@
 Olá.
 
-Me chamo Diorge, atuo como QA - Analista de Testes de Software, no momento tenho estudado com foco em desenvolvimento web, utilizando ReactJS, Javascript, pretendo atuar como desenvolvedor Front-end. 
+Me chamo Diorge, atuo como QA - Analista de Testes de Software, No momento estudando automação de testes e cursando o Ignite da Rocketseat com foco em React JS. 
 
 💼 - Linkedin: https://www.linkedin.com/in/diorge-cordeiro
 
