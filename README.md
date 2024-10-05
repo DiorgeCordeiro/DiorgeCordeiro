@@ -2,9 +2,9 @@ Olá.
 
 Me chamo Diorge,
 
-Em janeiro de 2021 Iniciei minha carreira na área de TI como Analista de testes/QA, ao longo desses 2 anos e meio atuei em projetos de Telecomunicações (Claro), serviços financeiros (PagoNxt Santander), adquiri experiência com processos de QA, testes manuais, testes automatizados e metodologias ágeis.
+Atuo como Analista de Testes/QA desde janeiro de 2021. Ao longo da minha carreira trabalhei em projetos de grandes empresas, incluindo o setor de Telecomunicações (Claro, TIM) e serviços financeiros (PagoNxt/Santander), além de áreas como Gestão de ativos e indústria 4.0. Essas experiências me permitiram desenvolver habilidades em processos de QA, metodologias ágeis e realizar testes manuais e testes automatizados em Web, Mobile e APIs.
 
-No momento estou aprofundando meu conhecimento em automação de testes com Appium + Java, Cypress, Robot Framework, possuo familiaridade com desenvolvimento web, React JS, JavaScript, HTML, CSS.
+Atualmente, estou aprofundando meus conhecimentos em automação de testes utilizando Cypress e Robot Framework. Também tenho familiaridade com desenvolvimento web, incluindo React JS, JavaScript, HTML e CSS.
 
 Possuo boa comunicação, capacidade analítica, organização e trabalho bem em equipe.
 
